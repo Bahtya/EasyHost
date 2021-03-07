@@ -7,4 +7,5 @@ https://github.com/ButterAndButterfly/GithubHost
 
 
 
-![01](images\01.PNG)
+![01](https://github.com/Bahtya/EasyHost/tree/master/images/01.PNG)
+
